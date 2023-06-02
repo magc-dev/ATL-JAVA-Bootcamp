@@ -1,0 +1,43 @@
+{
+  "equipo": {
+    "nombre": "DREAM COFFEE",
+    "número": 4,
+    "integrantes": [
+      {
+        "nombre": "Miguel",
+        "discord": "magcarnota#3573",
+        "github": "magc-dev"
+      },
+      {
+        "nombre": "David_25",
+        "discord": "David_25#6784",
+        "github": ""
+      },
+      {
+        "nombre": "Dark Wolf",
+        "discord": "Dark Wolf#6950",
+        "github": ""
+      },
+      {
+        "nombre": "Raul Lopez",
+        "discord": "Raul Lopez#0050",
+        "github": ""
+      },
+      {
+        "nombre": "oscartejada31",
+        "discord": "oscartejada31#0890",
+        "github": ""
+      },
+      {
+        "nombre": "Andres Benavides",
+        "discord": "Andres Benavides#4513",
+        "github": ""
+      },
+      {
+        "nombre": "Hugo Segura",
+        "discord": "Hugo Segura#0318",
+        "github": ""
+      }
+      ]
+  }
+}
