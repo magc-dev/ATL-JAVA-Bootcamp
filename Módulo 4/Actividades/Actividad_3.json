@@ -1,0 +1,59 @@
+{
+  "preguntas": [
+    {
+      "enunciado": "¿En qué año el hombre pisó la Luna por primera vez?",
+      "opciones": [
+        "1970",
+        "1964",
+        "1969",
+        "1971"
+        ],
+      "respuesta correcta": "1969",
+      "explicación": "La nave Apolo 11 llegó a la Luna en el año 1969, siendo ese año cuando Neil Armstrong dió “un pequeño paso para el hombre, un gran paso para la humanidad”."
+    },
+    {
+      "enunciado": "¿Cuál es el río más caudaloso del mundo?",
+      "opciones": [
+        "Nilo",
+        "Amazonas",
+        "Congo",
+        "Yangtsé"
+        ],
+      "respuesta correcta": "Amazonas",
+      "explicación": "Si bien muchas personas lo confunden a veces con el más largo, el río más caudaloso del mundo es el Amazonas."
+    },
+    {
+      "enunciado": "¿Dónde podemos encontrar la Casa Rosada?",
+      "opciones": [
+        "Argentina",
+        "Chile",
+        "Uruguay",
+        "Colombia"
+        ],
+      "respuesta correcta": "Argentina",
+      "explicación": "La Casa Rosada, de manera semejante a la Casa Blanca en Estados Unidos, es el edificio desde donde ejerce el presidente del Gobierno de Argentina y la sede del poder ejecutivo del país."
+    },
+    {
+      "enunciado": "¿Quién fue el director y a la vez protagonista de la película “Ciudadano Kane”?",
+      "opciones": [
+        "Cary Grant",
+        "James Stewart",
+        "Marlon Brando",
+        "Orson Welles"
+        ],
+      "respuesta correcta": "Orson Welles",
+      "explicación": "Orson Welles fue tanto director como actor protagonista (además de guionista y productor) de esta obra de culto, considerada por algunos una de las mejores películas de la historia."
+    },
+    {
+      "enunciado": "¿Qué famoso youtuber hispanohablante tiene su propia serie de animación?",
+      "opciones": [
+        "AuronPlay",
+        "El Rubius",
+        "JuegaGerman",
+        "Badabun"
+        ],
+      "respuesta correcta": "El Rubius",
+      "explicación": "Es el youtuber español El Rubius, protagonista de la serie Virtual Hero."
+    }
+    ]
+}
