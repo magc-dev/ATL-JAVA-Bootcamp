@@ -1,0 +1,1 @@
+[no prose, no additional information, JSON only output] Generate a JSON file with a set of minimum five questions. Each question must contain category, statement, a list of answers, a correct answer and a detailed explanation of correct answer.
